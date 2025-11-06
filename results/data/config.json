@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "model": "simulated_llm",
+  "temperature": 0.3,
+  "trials_per_condition": 30,
+  "audit_probability": 0.3,
+  "timestamp": "2025-11-05T13:22:47.553052",
+  "note": "Using simulated LLM agents for computational experiment"
+}
